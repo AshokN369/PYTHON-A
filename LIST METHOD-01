@@ -1,0 +1,5 @@
+values=input("input same comma seoarated numbers:"0
+list=values.slipt(",")
+tuple=tuple(list)
+print('list:',list)
+print('tuple:',tuple)
